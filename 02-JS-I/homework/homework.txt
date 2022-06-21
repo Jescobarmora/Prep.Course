@@ -1,0 +1,10 @@
+Variables
+Una Variable es un contenedor para almacenar datos, en JavaScript se inicializan usando las palabras reservadas "var, let y const".
+Strings
+Un String es un tipo de informacion almacenado en una variable, esta entre comillas dado que es un bloque de texto.
+Funciones
+Una funcion es una maquina, que recibe valores y hace cosas con ellos, las variables que inicializamos pueden retornar valores, es decir outputs, los recibidos inputs.
+Declaraciones If
+Dado que necesitamos regular la condicionalidad de nuestros programas, las Declaraciones If permiten relizar distinciones segun el contexto en cada momento.
+Valores Booleanos
+Verdadero o falso, activo o desactivo, sirven para conocer el estado, normalmente se emplean junto con los condicionales.
