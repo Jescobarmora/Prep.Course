@@ -1,0 +1,8 @@
+Ciclo For
+El for se usa para recorrer los elementos de un objeto iterable y ejecutar un bloque de codigo.
+&&
+Operador logico que evalua que ambas condiciones se cumplan
+||
+Operador logico que evalua que una de las condiciones se cumplan
+!
+Operador logico que devolvera el valor opuesto al inicializado.
