@@ -1,0 +1,5 @@
+prototype
+La propiedad prototype permite añadir nuevos metodos a objetos constructores, es especialmente util en herencia.
+constructores
+Un constructor es la solucion de javascript a la incializacion de objetos, con las propiedades que le asigenmos, de manera que podamos crear objetos
+mas facilmente, llamando a la palabra reservada new, el objeto y las propiedades.
