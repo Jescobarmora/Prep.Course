@@ -1,0 +1,2 @@
+Array
+Son objetos similares a una lista, su logitud y tipo de los elementos son variables.
