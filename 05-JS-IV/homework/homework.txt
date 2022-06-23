@@ -1,0 +1,12 @@
+Objeto
+Entidad independiente con propiedades y tipos, es decir es una entidad que simula el comportamiento de algo en la vida real y se le asignan adjetivos
+o caracteristicas (propiedades) y categorias (tipos)
+Propiedades
+Cada objeto tiene propiedades, que son las caracteristicas de ese objeto.
+Metodos
+Un método es una función asociada a un objeto, o, simplemente, un método es una propiedad de un objeto que es una función.
+Bucle For..in
+Es un bucle que itera (va uno a uno) sobre cada par valor de nuestro objeto.
+Notacion de Puntos vs Notacion de Corchetes
+En la Notacion de puntos se accede a las propiedades y metodos de un objeto colocando un punto justo despues del objeto y especificandolo a continuacion 
+(Objeto.propiedad). En la de corchetes se abre un corchete acontinuacion y se escribe la propiedad (Objeto[propiedad])
